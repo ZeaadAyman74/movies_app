@@ -1,4 +1,4 @@
-# 🎬 Movies Ap
+# 🎬 Movies App
 
 Welcome to the **Movies App**! This Flutter-based application allows users to explore a vast collection of movies using the TMDB API. Built with modern design principles, it includes theme management, smooth animations, and a powerful search feature to enhance user experience.
 
